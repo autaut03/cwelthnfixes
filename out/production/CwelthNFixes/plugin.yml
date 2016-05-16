@@ -1,0 +1,7 @@
+name: CwelthNFixes
+main: net.alexwells.cwelthnfixes.Main
+version: 1.0
+description: Fixes for Cwelth:Nostalgie
+softdepend: [SQLibrary]
+authors:
+  - 'Alex_Wells'

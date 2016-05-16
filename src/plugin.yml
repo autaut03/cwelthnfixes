@@ -1,0 +1,6 @@
+name: CwelthNFixes
+main: net.alexwells.cwelthnfixes
+version: 1.0
+description: Fixes for Cwelth:Nostalgie
+authors:
+  - 'Alex_Wells'
